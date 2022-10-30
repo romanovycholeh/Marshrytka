@@ -1,0 +1,2 @@
+# Marshrytka
+Game for hackaton
